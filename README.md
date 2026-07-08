@@ -8,7 +8,7 @@
 
 [【从零开始深入 git】02 - git 安装与配置 - 基础配置项与三层级配置文件](https://www.bilibili.com/video/BV1VTRmBxEVc/?share_source=copy_web&vd_source=47fc14225eaa66bfcf4c7c5650e950cc)
 
-[【从零开始深入 git】03 - git 仓库的基本使用 - 创建仓库，提交文件，文件的更改与暂存状态】](https://www.bilibili.com/video/BV1hgRmBWEdf/?share_source=copy_web&vd_source=47fc14225eaa66bfcf4c7c5650e950cc)
+[【从零开始深入 git】03 - git 仓库的基本使用 - 创建仓库，提交文件，文件的更改与暂存状态](https://www.bilibili.com/video/BV1hgRmBWEdf/?share_source=copy_web&vd_source=47fc14225eaa66bfcf4c7c5650e950cc)
 
 [【从零开始深入 git】04 - 在 IDE 中使用 git - VSCode 及 JetBrains 中的 git 工作流，commit message 规范](https://www.bilibili.com/video/BV1kbRmBgEEa/?share_source=copy_web&vd_source=47fc14225eaa66bfcf4c7c5650e950cc)
 
@@ -99,4 +99,4 @@ AnIndepthTutorialForGit/
 ## 📌 结语
 ### 感谢观看本系列教程！如果你觉得教程帮到了你，可以顺手 Star ⭐ 这个 GitHub 项目，或在视频评论区留言反馈哦~你们的支持是我更新最大的动力
 
-> 如果你对项目有任何疑问，或者有建议和意见，欢迎在 issue 面板发起讨论，或创建 PR。
+> 如果你对项目有任何疑问，或者有建议和意见，欢迎在 discussions 面板发起讨论、提出 issue 或 创建 PR。
