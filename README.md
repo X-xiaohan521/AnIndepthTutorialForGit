@@ -28,6 +28,10 @@
 
 [【从零开始深入 git】12 - 多人协作 Workflow - 小团队、企业、大型开源项目常用协作工作流](https://www.bilibili.com/video/BV1TQTJ6RE9U/?share_source=copy_web&vd_source=47fc14225eaa66bfcf4c7c5650e950cc)
 
+[【从零开始深入 git】13 - git 仓库托管平台 - A Part - GitHub 详细讲解，账户授权、分支保护、PR、issue、releases](https://www.bilibili.com/video/BV1pWNE6MERn/?share_source=copy_web&vd_source=47fc14225eaa66bfcf4c7c5650e950cc)
+
+[【从零开始深入 git】13 - git 仓库托管平台 - B Part - 手把手教你参与大型开源项目](https://www.bilibili.com/video/BV1pWNE6ME33/?share_source=copy_web&vd_source=47fc14225eaa66bfcf4c7c5650e950cc)
+
 ---
 
 ## 📂 文件结构描述
